@@ -1,6 +1,6 @@
-#i don't understand any thing 
+# first change!!
 
-##prpject rulrs :
+## prpject rulrs :
 
 
 - 👋 Hi, I’m @Malaknourr
